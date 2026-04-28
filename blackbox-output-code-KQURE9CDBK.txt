@@ -1,0 +1,7 @@
+Owner can:
+✅ Add new products
+✅ Edit existing products  
+✅ Delete products
+✅ Adjust prices up/down
+✅ Set age restrictions
+✅ Custom categories & emojis
